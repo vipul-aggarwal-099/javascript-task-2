@@ -1,1 +1,1 @@
-# javascript-task-2
+# Javascript-task-2
